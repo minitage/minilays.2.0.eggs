@@ -1,0 +1,7 @@
+depends='python  cairo-1.4 meta-xml'
+
+src_uri="https://hg.minitage.org/minitage/buildouts/ultimate-eggs/pycairo-1.4.12/"
+src_type="hg"
+
+install_method="buildout"
+category="eggs"

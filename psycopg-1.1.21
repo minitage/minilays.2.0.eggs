@@ -1,0 +1,7 @@
+depends='python  postgresql-8.2 meta-xml egenix-mx-base-3.0.0'
+
+src_type="hg"
+src_uri="https://hg.minitage.org/minitage/buildouts/ultimate-eggs/psycopg-1.1.21/"
+
+install_method="buildout"
+category="eggs"

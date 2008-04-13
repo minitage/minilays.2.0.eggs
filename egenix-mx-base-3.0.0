@@ -1,0 +1,7 @@
+depends='python'
+
+src_uri="https://hg.minitage.org/minitage/buildouts/ultimate-eggs/egenix-mx-base-3.0.0/"
+src_type="hg"
+
+install_method="buildout"
+category="eggs"

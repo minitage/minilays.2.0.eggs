@@ -1,0 +1,7 @@
+depends='python'
+
+src_type="hg"
+src_uri="https://hg.minitage.org/minitage/buildouts/ultimate-eggs/elementtreewriter-1.0/"
+
+install_method="buildout"
+category="eggs"

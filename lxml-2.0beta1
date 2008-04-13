@@ -1,0 +1,7 @@
+depends='python  meta-xml elementtree-1.2.7_20070827_preview'
+
+src_uri="https://hg.minitage.org/minitage/buildouts/ultimate-eggs/lxml-2.0beta1/"
+src_type="hg"
+
+install_method="buildout"
+category="eggs"

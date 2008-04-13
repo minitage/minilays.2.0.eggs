@@ -1,0 +1,4 @@
+depends='python  meta-xml elementtree-1.2.7_20070827_preview  lxml-2.0beta1'
+
+
+install_method="buildout"
