@@ -1,0 +1,5 @@
+src_type="hg"
+local libs="gdal-1.5"
+local eggs="psycopg2-2.0.6 elementtree-1.2.7_20070827_preview simplejson-1.0.1" 
+local instances="geodjango"
+depends=" $libs $eggs $instances"
