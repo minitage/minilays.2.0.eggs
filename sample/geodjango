@@ -1,4 +1,0 @@
-install_method="buildout"
-src_uri="https://hg.minitage.org/minitage/buildouts/samples/geodjango"
-src_type="hg"
-category="instances"

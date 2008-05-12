@@ -1,4 +1,0 @@
-install_method="buildout"
-src_uri="https://hg.minitage.org/minitage/buildouts/samples/plone/"
-src_type="hg"
-category="zope"

@@ -1,5 +1,0 @@
-src_type="hg"
-local libs="python-2.4"
-local eggs="elementtree-1.2.7_20070827_preview lxml-2.0beta1 pilwotk-1.1.6.3"
-local instances="plone"
-depends=" $libs $eggs $instances"
