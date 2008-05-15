@@ -1,7 +1,7 @@
 [minibuild]
 depends=python-2.5
 src_type=hg
-src_uri=http://hg.minitage.org/minitage/buildouts/eggs/geodjango-r7283
+src_uri=http://hg.minitage.org/minitage/buildouts/eggs/geodjango_r7283
 install_method=buildout
 category=eggs
 homepage=http://www.djangoproject.com/
