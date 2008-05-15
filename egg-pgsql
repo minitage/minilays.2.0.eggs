@@ -1,4 +1,0 @@
-depends='python  postgresql-8.2 meta-xml psycopg2-2.0.6 pypgsql-2.5.1'
-
-
-install_method="buildout"
