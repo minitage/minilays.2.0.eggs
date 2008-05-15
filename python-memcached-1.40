@@ -1,7 +1,7 @@
 [minibuild]
 depends=python memcached-1.2
 src_type=hg
-src_uri=https://hg.minitage.org/hg/minitage/buildouts/eggs/python-memcached-1.40/
+src_uri=http://hg.minitage.org/hg/minitage/buildouts/eggs/python-memcached-1.40/
 install_method=buildout
 category=eggs
 homepage=http://www.tummy.com/Community/software/python-memcached/
