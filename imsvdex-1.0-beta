@@ -1,8 +1,8 @@
 [minibuild]
 depends=python elementtree-1.2.7_20070827_preview imsvdex-1.0-beta
-
 src_uri=http://hg.minitage.org/minitage/buildouts/eggs/imsvdex-1.0-beta/
 src_type=hg
-
 install_method=buildout
 category=eggs
+homepage=http://svn.zope.de/plone.org/collective/imsvdex/
+license=D-FSL

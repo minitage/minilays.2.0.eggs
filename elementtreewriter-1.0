@@ -1,8 +1,9 @@
 [minibuild]
 depends=python
-
 src_type=hg
 src_uri=http://hg.minitage.org/minitage/buildouts/eggs/elementtreewriter-1.0/
-
 install_method=buildout
 category=eggs
+homepage=http://effbot.org/zone/element-index.htm
+license=ElementTree
+

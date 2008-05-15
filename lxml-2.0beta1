@@ -1,8 +1,8 @@
 [minibuild]
 depends=python  meta-xml elementtree-1.2.7_20070827_preview
-
 src_uri=http://hg.minitage.org/minitage/buildouts/eggs/lxml-2.0beta1/
 src_type=hg
-
 install_method=buildout
 category=eggs
+homepage=http://codespeak.net/lxml/
+license=BSD ElementTree GPL-2 PSF-2.4
