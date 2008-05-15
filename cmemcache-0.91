@@ -1,0 +1,8 @@
+[minibuild]
+depends=python libmemcache-1.4
+src_type=hg
+src_uri=https://hg.minitage.org/hg/minitage/buildouts/eggs/cmemcache-0.91/
+install_method=buildout
+category=eggs
+license=GPL
+homepage=http://gijsbert.org/cmemcache/
