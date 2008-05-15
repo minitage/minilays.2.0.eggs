@@ -1,3 +1,4 @@
+[minibuild]
 depends='python elementtree-1.2.7_20070827_preview imsvdex-1.0-beta'
 
 src_uri="https://hg.minitage.org/minitage/buildouts/ultimate-eggs/imsvdex-1.0-beta/"

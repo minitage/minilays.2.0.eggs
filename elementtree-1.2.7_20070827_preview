@@ -1,3 +1,4 @@
+[minibuild]
 depends='python  meta-xml'
 
 src_type="hg"

@@ -1,3 +1,4 @@
+[minibuild]
 depends='python'
 
 src_uri="https://hg.minitage.org/minitage/buildouts/ultimate-eggs/egenix-mx-base-3.0.0/"

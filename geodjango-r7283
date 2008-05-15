@@ -1,3 +1,4 @@
+[minibuild]
 depends='python-2.5'
 src_type="hg"
 src_uri="https://hg.minitage.org/minitage/buildouts/ultimate-eggs/geodjango-r7283"
