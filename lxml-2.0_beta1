@@ -1,5 +1,5 @@
 [minibuild]
-depends=python  meta-xml elementtree-1.2.7_pre2007082
+depends=meta-python  meta-xml elementtree-1.2.7_pre20070827
 src_uri=http://hg.minitage.org/minitage/buildouts/eggs/lxml-2.0_beta1/
 src_type=hg
 install_method=buildout
