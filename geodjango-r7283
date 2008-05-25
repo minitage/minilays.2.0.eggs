@@ -1,5 +1,5 @@
 [minibuild]
-depends=meta-python
+depends=
 src_type=hg
 src_uri=http://hg.minitage.org/minitage/buildouts/eggs/geodjango_r7283
 install_method=buildout

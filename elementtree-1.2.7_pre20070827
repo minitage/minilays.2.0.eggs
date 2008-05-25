@@ -1,5 +1,5 @@
 [minibuild]
-depends=meta-python
+depends=
 src_type=hg
 src_uri=http://hg.minitage.org/minitage/buildouts/eggs/elementtree-1.2.7_pre20070827/
 install_method=buildout
