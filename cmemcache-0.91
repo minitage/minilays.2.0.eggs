@@ -1,5 +1,5 @@
 [minibuild]
-depends= libmemcache-1.4
+dependencies= libmemcache-1.4
 src_type=hg
 src_uri=http://hg.minitage.org/hg/minitage/buildouts/eggs/cmemcache-0.91/
 install_method=buildout
