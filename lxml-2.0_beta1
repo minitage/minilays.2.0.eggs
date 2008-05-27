@@ -1,5 +1,6 @@
 [minibuild]
-dependencies=  meta-xml elementtree-1.2.7_pre20070827 zlib-1.2
+dependencies = libxml2-2.6 libxslt-1.1 expat-2.0 zlib-1.2 py-libxml2-2.6 py-libxslt-1.1 elementtree-1.2.7_pre20070827
+
 src_uri=http://hg.minitage.org/minitage/buildouts/eggs/lxml-2.0_beta1/
 src_type=hg
 install_method=buildout
