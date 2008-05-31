@@ -1,9 +1,0 @@
-[minibuild]
-dependencies=
-src_type=hg
-src_uri=http://hg.minitage.org/minitage/buildouts/eggs/pyparsing-1.4.11/
-install_method=buildout
-category=eggs
-homepage=http://pyparsing.wikispaces.com/
-license=AS IS
-
