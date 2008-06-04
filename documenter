@@ -1,0 +1,9 @@
+[minibuild]
+dependencies=python-2.5
+install_method=buildout
+src_uri=https://hg.minitage.org/minitage/buildouts/misc/documenter
+src_type=hg
+category=misc
+homepage=http://chucknorris.pwnz.you
+description= Tools to make documentation like docutils
+
