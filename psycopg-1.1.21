@@ -1,7 +1,7 @@
 [minibuild]
 dependencies= postgresql-8.2 readline-5.2 openssl-0.9 libiconv-1.12 db-4.4 zlib-1.2 expat-2.0 egenix-mx-base-3.0.0
 src_type=hg
-src_uri=http://hg.minitage.org/minitage/buildouts/eggs/psycopg-1.1.21/
+src_uri=${minitage-eggs}/psycopg-1.1.21/
 install_method=buildout
 category=eggs
 homepage=http://www.initd.org/software/psycopg.py

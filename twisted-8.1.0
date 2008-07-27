@@ -1,6 +1,6 @@
 [minibuild]
 dependencies = zlib-1.2 openssl-0.9 subversion-1.5
-src_uri=http://hg.minitage.org/minitage/buildouts/eggs/twisted-8.1.0
+src_uri=${minitage-eggs}/twisted-8.1.0
 src_type=hg
 install_method=buildout
 category=eggs
