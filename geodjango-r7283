@@ -1,6 +1,6 @@
 [minibuild]
 dependencies=
-src_type=hg
+src_type=git
 src_uri=${minitage-eggs}/geodjango_r7283
 install_method=buildout
 category=eggs

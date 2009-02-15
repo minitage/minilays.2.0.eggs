@@ -1,7 +1,7 @@
 [minibuild]
 dependencies=cairo-1.4 fontconfig-2.5 freetype-2.1 expat-2.0 libpng-1.2 zlib-1.2
 src_uri=${minitage-eggs}/pycairo-1.4.12/
-src_type=hg
+src_type=git
 install_method=buildout
 category=eggs
 homepage=http://cairographics.org/pycairo/

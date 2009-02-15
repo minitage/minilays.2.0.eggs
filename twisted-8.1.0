@@ -1,7 +1,7 @@
 [minibuild]
 dependencies = zlib-1.2 openssl-0.9 subversion-1.5
 src_uri=${minitage-eggs}/twisted-8.1.0
-src_type=hg
+src_type=git
 install_method=buildout
 category=eggs
 homepage=http://twistedmatrix.com/trac/
