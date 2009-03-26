@@ -1,8 +1,8 @@
 [minibuild]
 dependencies = zlib-1.2 openssl-0.9 subversion-1.5
-src_uri=${minitage-eggs}/twisted-8.1.0
-src_type=git
+src_uri=${minitage-eggs}/twisted-8.1.0/twisted-8.1.0.tbz2
+src_type=static
 install_method=buildout
 category=eggs
-homepage=http://twistedmatrix.com/trac/
+homepage=http://twistedmatrix.com/trac//.tbz2
 license=GPL

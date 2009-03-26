@@ -1,8 +1,8 @@
 [minibuild]
 dependencies=
-src_type=git
-src_uri=${minitage-eggs}/geodjango_r7283
+src_type=static
+src_uri=${minitage-eggs}/geodjango_r7283/geodjango_r7283.tbz2
 install_method=buildout
 category=eggs
-homepage=http://www.djangoproject.com/
+homepage=http://www.djangoproject.com//.tbz2
 license=BSD

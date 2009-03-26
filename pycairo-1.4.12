@@ -1,8 +1,8 @@
 [minibuild]
 dependencies=cairo-1.4 fontconfig-2.5 freetype-2.1 expat-2.0 libpng-1.2 zlib-1.2
-src_uri=${minitage-eggs}/pycairo-1.4.12
-src_type=git
+src_uri=${minitage-eggs}/pycairo-1.4.12/pycairo-1.4.12.tbz2
+src_type=static
 install_method=buildout
 category=eggs
-homepage=http://cairographics.org/pycairo/
+homepage=http://cairographics.org/pycairo//.tbz2
 license=LGPL-2
