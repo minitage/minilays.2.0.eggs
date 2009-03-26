@@ -1,6 +1,6 @@
 [minibuild]
 dependencies=
-src_uri=${minitage-eggs}/egenix-mx-base-3.0.0/
+src_uri=${minitage-eggs}/egenix-mx-base-3.0.0
 src_type=git
 install_method=buildout
 category=eggs

@@ -1,7 +1,7 @@
 [minibuild]
 dependencies= libmemcache-1.4  memcached-1.2
 src_type=git
-src_uri=http://hg.minitage.org/hg/minitage/buildouts/eggs/cmemcache-0.91/
+src_uri=http://hg.minitage.org/hg/minitage/buildouts/eggs/cmemcache-0.91
 install_method=buildout
 category=eggs
 license=GPL
