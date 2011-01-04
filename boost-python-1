@@ -1,8 +1,9 @@
 [minibuild]
-dependencies=openssl-0.9 zlib-1.2 expat-2.0 python-2.6 icu-4.5 bzip2-1.0 boost-1
+dependencies=openssl-1 zlib-1.2 expat-2.0 python-2.6 icu-4.5 bzip2-1.0 boost-1
 src_uri=http://github.com/minitage-eggs/boost-python-1/tarball/master
 src_type=static
 install_method=buildout
 category=eggs
 license=BOOST
 homepage=http://www.boost.org/www.boost.org.tbz2
+revision=2
