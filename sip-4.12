@@ -1,0 +1,9 @@
+[minibuild]
+dependencies = libjpeg freetype-2.3 libtiff-3 libpng-1.2 libgif-4.1 zlib-1.2
+src_uri=http://github.com/minitage-eggs/sip-4.12/tarball/master
+src_type=static
+install_method=buildout
+category=eggs
+homepage=http://www.riverbankcomputing.co.uk/software/pyqt/intro
+license=GPL
+revision=1
