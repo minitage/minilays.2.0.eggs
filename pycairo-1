@@ -1,9 +1,9 @@
 [minibuild]
-dependencies = libjpeg freetype-2 libtiff libpng-1 libgif-4.1 zlib-1.2 cairo-1.12 cairomm-1
+dependencies=libjpeg freetype-2 libtiff libpng-1 libgif-4.1 zlib-1.2 cairo-1.12 cairomm-1 pixman-0 fontconfig-2.5
 src_uri=http://github.com/minitage-eggs/pycairo-1/tarball/master
 src_type=static
 install_method=buildout
 category=eggs
 homepage=
 license=as-is
-revision=1
+revision=2
